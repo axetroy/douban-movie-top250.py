@@ -1,0 +1,2 @@
+scrapy==1.6.0
+fake-useragent==0.1.11
